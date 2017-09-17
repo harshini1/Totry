@@ -1,0 +1,110 @@
+D:\VSProjects\SAPBot\SAPBot\bin\Bot Application1.dll.config
+D:\VSProjects\SAPBot\SAPBot\bin\Bot Application1.dll
+D:\VSProjects\SAPBot\SAPBot\bin\Bot Application1.pdb
+D:\VSProjects\SAPBot\SAPBot\bin\Autofac.dll
+D:\VSProjects\SAPBot\SAPBot\bin\Chronic.dll
+D:\VSProjects\SAPBot\SAPBot\bin\Microsoft.Bot.Builder.dll
+D:\VSProjects\SAPBot\SAPBot\bin\Microsoft.Bot.Connector.dll
+D:\VSProjects\SAPBot\SAPBot\bin\Microsoft.Identity.Client.dll
+D:\VSProjects\SAPBot\SAPBot\bin\Microsoft.Identity.Client.Platform.dll
+D:\VSProjects\SAPBot\SAPBot\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\VSProjects\SAPBot\SAPBot\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+D:\VSProjects\SAPBot\SAPBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\VSProjects\SAPBot\SAPBot\bin\Microsoft.Rest.ClientRuntime.dll
+D:\VSProjects\SAPBot\SAPBot\bin\Microsoft.WindowsAzure.ActiveDirectory.Authentication.dll
+D:\VSProjects\SAPBot\SAPBot\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\VSProjects\SAPBot\SAPBot\bin\Newtonsoft.Json.dll
+D:\VSProjects\SAPBot\SAPBot\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\VSProjects\SAPBot\SAPBot\bin\System.Net.Http.Formatting.dll
+D:\VSProjects\SAPBot\SAPBot\bin\System.Web.Http.dll
+D:\VSProjects\SAPBot\SAPBot\bin\System.Web.Http.WebHost.dll
+D:\VSProjects\SAPBot\SAPBot\bin\Autofac.xml
+D:\VSProjects\SAPBot\SAPBot\bin\Microsoft.Bot.Builder.xml
+D:\VSProjects\SAPBot\SAPBot\bin\Microsoft.Bot.Connector.xml
+D:\VSProjects\SAPBot\SAPBot\bin\Microsoft.Identity.Client.xml
+D:\VSProjects\SAPBot\SAPBot\bin\Microsoft.Identity.Client.Platform.xml
+D:\VSProjects\SAPBot\SAPBot\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\VSProjects\SAPBot\SAPBot\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+D:\VSProjects\SAPBot\SAPBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+D:\VSProjects\SAPBot\SAPBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\VSProjects\SAPBot\SAPBot\bin\Microsoft.Rest.ClientRuntime.xml
+D:\VSProjects\SAPBot\SAPBot\bin\Microsoft.WindowsAzure.ActiveDirectory.Authentication.xml
+D:\VSProjects\SAPBot\SAPBot\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\VSProjects\SAPBot\SAPBot\bin\Newtonsoft.Json.xml
+D:\VSProjects\SAPBot\SAPBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+D:\VSProjects\SAPBot\SAPBot\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\VSProjects\SAPBot\SAPBot\bin\System.Net.Http.Formatting.xml
+D:\VSProjects\SAPBot\SAPBot\bin\System.Web.Http.xml
+D:\VSProjects\SAPBot\SAPBot\bin\System.Web.Http.WebHost.xml
+D:\VSProjects\SAPBot\SAPBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\VSProjects\SAPBot\SAPBot\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\VSProjects\SAPBot\SAPBot\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\VSProjects\SAPBot\SAPBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\VSProjects\SAPBot\SAPBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\VSProjects\SAPBot\SAPBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\VSProjects\SAPBot\SAPBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\VSProjects\SAPBot\SAPBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\VSProjects\SAPBot\SAPBot\obj\Debug\SAPBot.csprojResolveAssemblyReference.cache
+D:\VSProjects\SAPBot\SAPBot\obj\Debug\SAPBot.AuthText.resources
+D:\VSProjects\SAPBot\SAPBot\obj\Debug\SAPBot.csproj.GenerateResource.Cache
+D:\VSProjects\SAPBot\SAPBot\obj\Debug\Bot Application1.dll
+D:\VSProjects\SAPBot\SAPBot\obj\Debug\Bot Application1.pdb
+C:\E\VS projects\SAPBot\SAPBot\bin\Bot Application1.dll.config
+C:\E\VS projects\SAPBot\SAPBot\bin\Bot Application1.dll
+C:\E\VS projects\SAPBot\SAPBot\bin\Bot Application1.pdb
+C:\E\VS projects\SAPBot\SAPBot\bin\Autofac.dll
+C:\E\VS projects\SAPBot\SAPBot\bin\Chronic.dll
+C:\E\VS projects\SAPBot\SAPBot\bin\EntityFramework.dll
+C:\E\VS projects\SAPBot\SAPBot\bin\EntityFramework.SqlServer.dll
+C:\E\VS projects\SAPBot\SAPBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\E\VS projects\SAPBot\SAPBot\bin\Microsoft.Bot.Builder.dll
+C:\E\VS projects\SAPBot\SAPBot\bin\Microsoft.Bot.Connector.dll
+C:\E\VS projects\SAPBot\SAPBot\bin\Microsoft.Identity.Client.dll
+C:\E\VS projects\SAPBot\SAPBot\bin\Microsoft.Identity.Client.Platform.dll
+C:\E\VS projects\SAPBot\SAPBot\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\E\VS projects\SAPBot\SAPBot\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\E\VS projects\SAPBot\SAPBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\E\VS projects\SAPBot\SAPBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\E\VS projects\SAPBot\SAPBot\bin\Microsoft.SharePoint.Client.dll
+C:\E\VS projects\SAPBot\SAPBot\bin\Microsoft.SharePoint.Client.DocumentManagement.dll
+C:\E\VS projects\SAPBot\SAPBot\bin\Microsoft.SharePoint.Client.Runtime.dll
+C:\E\VS projects\SAPBot\SAPBot\bin\Microsoft.WindowsAzure.ActiveDirectory.Authentication.dll
+C:\E\VS projects\SAPBot\SAPBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\E\VS projects\SAPBot\SAPBot\bin\Newtonsoft.Json.dll
+C:\E\VS projects\SAPBot\SAPBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\E\VS projects\SAPBot\SAPBot\bin\System.Net.Http.Formatting.dll
+C:\E\VS projects\SAPBot\SAPBot\bin\System.Web.Http.dll
+C:\E\VS projects\SAPBot\SAPBot\bin\System.Web.Http.WebHost.dll
+C:\E\VS projects\SAPBot\SAPBot\bin\Autofac.xml
+C:\E\VS projects\SAPBot\SAPBot\bin\EntityFramework.xml
+C:\E\VS projects\SAPBot\SAPBot\bin\EntityFramework.SqlServer.xml
+C:\E\VS projects\SAPBot\SAPBot\bin\Microsoft.Bot.Builder.xml
+C:\E\VS projects\SAPBot\SAPBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\E\VS projects\SAPBot\SAPBot\bin\Microsoft.Bot.Connector.xml
+C:\E\VS projects\SAPBot\SAPBot\bin\Microsoft.Identity.Client.xml
+C:\E\VS projects\SAPBot\SAPBot\bin\Microsoft.Identity.Client.Platform.xml
+C:\E\VS projects\SAPBot\SAPBot\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\E\VS projects\SAPBot\SAPBot\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\E\VS projects\SAPBot\SAPBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\E\VS projects\SAPBot\SAPBot\bin\Microsoft.WindowsAzure.ActiveDirectory.Authentication.xml
+C:\E\VS projects\SAPBot\SAPBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\E\VS projects\SAPBot\SAPBot\bin\Newtonsoft.Json.xml
+C:\E\VS projects\SAPBot\SAPBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\E\VS projects\SAPBot\SAPBot\bin\System.Net.Http.Formatting.xml
+C:\E\VS projects\SAPBot\SAPBot\bin\System.Web.Http.xml
+C:\E\VS projects\SAPBot\SAPBot\bin\System.Web.Http.WebHost.xml
+C:\E\VS projects\SAPBot\SAPBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\E\VS projects\SAPBot\SAPBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\E\VS projects\SAPBot\SAPBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\E\VS projects\SAPBot\SAPBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\E\VS projects\SAPBot\SAPBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\E\VS projects\SAPBot\SAPBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\E\VS projects\SAPBot\SAPBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\E\VS projects\SAPBot\SAPBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\E\VS projects\SAPBot\SAPBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\E\VS projects\SAPBot\SAPBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\E\VS projects\SAPBot\SAPBot\obj\Debug\SAPBot.AuthText.resources
+C:\E\VS projects\SAPBot\SAPBot\obj\Debug\SAPBot.csproj.GenerateResource.Cache
+C:\E\VS projects\SAPBot\SAPBot\obj\Debug\Bot Application1.dll
+C:\E\VS projects\SAPBot\SAPBot\obj\Debug\Bot Application1.pdb
+C:\E\VS projects\SAPBot\SAPBot\obj\Debug\SAPBot.csprojResolveAssemblyReference.cache

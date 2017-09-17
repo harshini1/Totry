@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SAPBotModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="SNOW">
+    <Key>
+      <PropertyRef Name="ICNumber" />
+    </Key>
+    <Property Name="ICNumber" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="Impact" Type="Int32" />
+    <Property Name="Alias" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="ImpAppl" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ShortDesc" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Status" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="StatusDesc" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="database_firewall_rules">
+    <Key>
+      <PropertyRef Name="id" />
+      <PropertyRef Name="name" />
+      <PropertyRef Name="start_ip_address" />
+      <PropertyRef Name="end_ip_address" />
+      <PropertyRef Name="create_date" />
+      <PropertyRef Name="modify_date" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="start_ip_address" Type="String" MaxLength="45" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="end_ip_address" Type="String" MaxLength="45" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="create_date" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="modify_date" Type="DateTime" Nullable="false" Precision="3" />
+  </EntityType>
+  <EntityContainer Name="SAPBotEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="SNOWs" EntityType="Self.SNOW" />
+    <EntitySet Name="database_firewall_rules" EntityType="Self.database_firewall_rules" />
+    <EntitySet Name="Screenings" EntityType="SAPBotModel.Screening" />
+  </EntityContainer>
+  <EntityType Name="Screening">
+    <Key>
+      <PropertyRef Name="SDate" />
+    </Key>
+    <Property Name="SDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="C1" Type="Int32" />
+    <Property Name="b1" Type="Int32" />
+    <Property Name="b2" Type="Int32" />
+  </EntityType>
+</Schema>
