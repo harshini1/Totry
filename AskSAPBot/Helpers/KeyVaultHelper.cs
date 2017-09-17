@@ -16,7 +16,8 @@ namespace AskSAPBot.Helpers
 
         //the method that will be provided to the KeyVaultClient
         public static async Task<string> GetToken(string authority, string resource, string scope)
-        {
+        { //to check local repo
+            string toGit = "check";
             var authenticationContext = new AuthenticationContext(authority, null);
             var authContext = new AuthenticationContext(authority);
             X509Certificate2 certificate;
